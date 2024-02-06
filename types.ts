@@ -7,7 +7,7 @@ const person = {
 person.age
 
 class Color {
-
+  
 }
 
 const red = new Color();
